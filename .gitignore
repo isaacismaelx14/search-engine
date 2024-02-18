@@ -1,0 +1,13 @@
+.env
+.env.*
+
+dist
+node_modules
+
+.cache
+.temp
+
+*.log
+*.log.*
+*.log-*
+
