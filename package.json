@@ -12,9 +12,11 @@
     "tailwind:watch": "tailwindcss -i ./public/input.css -o ./public/output.css --watch"
   },
   "dependencies": {
+    "@prisma/client": "^5.9.1",
     "hono": "^4.0.4",
     "openai": "^4.28.0",
-    "postgres": "^3.4.3"
+    "postgres": "^3.4.3",
+    "prisma": "^5.9.1"
   },
   "devDependencies": {
     "@types/bun": "^1.0.6",

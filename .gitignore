@@ -12,3 +12,4 @@ node_modules
 *.log-*
 
 ./public/output.css
+output.css
